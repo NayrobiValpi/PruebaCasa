@@ -1,4 +1,6 @@
 nombre = "juan"
 edad = 23
 if edad >= 18:
-    pass
+    print("Eres mayor de edad")
+else:
+    print("Eres menor de edad")
